@@ -1,6 +1,3 @@
-# Jon's Script for pulling OpinionLab comments
-# created 10/27/2012
-
 require 'rubygems'
 require 'typhoeus'	# for HTTP requests - overkill?
 require 'nokogiri'	# for parsing XML
