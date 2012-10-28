@@ -41,7 +41,7 @@ OptionParser.new do |opts|
 	
 end.parse!
 
-puts "Welcome to Jon's Opinion Lab Script."
+puts "Opinion Lab Comments Are Fun!"
 
 # set domain
 olab_data_realm = options[:domain]
